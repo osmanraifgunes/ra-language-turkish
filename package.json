@@ -1,10 +1,10 @@
 {
   "name": "ra-language-turkish2",
   "version": "4.1.3",
-  "description": "English messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "description": "Turkish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/marmelab/react-admin.git"
+      "url": "git+https://github.com/osmanraifgunes/ra-language-turkish.git"
   },
   "files": [
       "*.md",
@@ -31,11 +31,11 @@
       "admin-on-rest",
       "translation"
   ],
-  "author": "François Zaninotto",
+  "author": "Osman Raif güneş",
   "license": "MIT",
   "bugs": {
-      "url": "https://github.com/marmelab/react-admin/issues"
+      "url": "https://github.com/osmanraifgunes/ra-language-turkish/issues"
   },
-  "homepage": "https://github.com/marmelab/react-admin#readme",
+  "homepage": "https://github.com/osmanraifgunes/ra-language-turkish#readme",
   "gitHead": "37db86feb51dbe4f8474578346e09d2b541828e4"
 }
